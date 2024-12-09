@@ -1,3 +1,3 @@
 ### "Поколение Python": курс для профессионалов
-Курс https://stepik.org/course/82541/promo
+Курс https://stepik.org/course/82541/promo<br>
 Ответы на все интерактивные задачи!
